@@ -1,4 +1,4 @@
-# snake-game
+# calculator
 
 An Electron application with Vue
 
